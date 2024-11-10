@@ -1,4 +1,8 @@
 # **Autoimmune Disorder Multi-Label Classification Model**
+<a target="_blank" href="https://colab.research.google.com/github/AbdullahRagheb/AutoimmuneDetector/blob/main/multi_label_autoimmune_disorder_Classification.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> 
+
 
 ## **Overview**
 This repository contains the code and methodology for building and training a multi-label neural network model to classify various autoimmune disorders from clinical data. The model is implemented using PyTorch and includes data preprocessing, model architecture, training, and evaluation.
