@@ -5,7 +5,7 @@
 
 
 ## **Overview**
-This repository contains the code and methodology for building and training a multi-label neural network model to classify various autoimmune disorders from clinical data. The model is implemented using PyTorch and includes data preprocessing, model architecture, training, and evaluation.
+This project focuses on building a multi-label classification model for autoimmune disorder diagnosis using clinical data. The model is designed to predict the presence of various autoimmune disorders based on input features such as age, gender, and clinical measurements. Implemented in PyTorch, the project includes comprehensive data preprocessing, model training, and evaluation, ensuring robust performance and accurate predictions.
 
 ## **Project Structure**
 Here is an overview of the main files in the project:
